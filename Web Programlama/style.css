@@ -1,0 +1,46 @@
+main{
+    padding: 0px 0px 0px 150px;
+    background-color: rgb(207, 206, 206);
+}
+nav{
+    text-align:end;
+    border-bottom: solid 2px black;
+}
+div{
+    border-bottom: solid 2px black;
+}
+.footer{
+    background-color: rgb(207, 206, 206);
+    padding: 30px 30px 30px 30px;
+}
+.a{
+    padding: 10px 627px 0px;
+}
+
+.c{
+    padding: 9px 553px;
+}
+.per1{
+    display: flex;
+}
+.per1_metin{
+    padding: 60px;
+}
+.per2{
+    display: flex;
+}
+.per2_metin{
+    padding: 60px;
+}
+.per3{
+    display: flex;
+}
+.per3_metin{
+    padding: 60px;
+}
+.per4{
+    display: flex;
+}
+.per4_metin{
+    padding: 60px;
+}
